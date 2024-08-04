@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![LinkedIn Badge](https://img.shields.io/badge/-laxsuryavanshi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laxsuryavanshi/)](https://www.linkedin.com/in/laxsuryavanshi/)
+[![Gmail Badge](https://img.shields.io/badge/-laxsuryavanshi@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:laxsuryavanshi@gmail.com)](mailto:laxsuryavanshi@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=laxsuryavanshi&label=Profile%20views&color=0e75b6)
+
 <!--
 **laxsuryavanshi/laxsuryavanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
